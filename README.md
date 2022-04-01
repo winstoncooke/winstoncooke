@@ -5,7 +5,7 @@
 ---
 -->
 
-<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://github.com/winstoncooke/winstoncooke/blob/main/In-Blue-128%402x.png" width="30"></a>
+<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://github.com/winstoncooke/winstoncooke/blob/main/In-Blue-128%402x.png" width="50"></a>
 
 I am a backend developer that primarily codes in Java. My work focuses on contributing to open-source projects that I find useful.
 
