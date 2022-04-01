@@ -5,8 +5,12 @@
 ---
 -->
 
-<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="75"></a>
+<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://github.com/winstoncooke/winstoncooke/blob/main/In-Blue-128%402x.png" width="75"></a>
 &nbsp; &nbsp;
+
+<!--
+https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg
+-->
 
 I am a backend developer that primarily codes in Java. My work focuses on contributing to open-source projects that I find useful.
 
