@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 -->
 
-<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="300"></a>
+<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="100"></a>
 &nbsp; &nbsp;
 
 I am a backend developer primarily focused on using Java. My work focuses primarily on contributing to open-source projects that I find useful.
