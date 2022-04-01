@@ -1,18 +1,3 @@
-<!--
-**winstoncooke/winstoncooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Winston Cooke
 <!--
 ---
@@ -20,7 +5,7 @@ Here are some ideas to get you started:
 ---
 -->
 
-<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="100"></a>
+<a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="75"></a>
 &nbsp; &nbsp;
 
 I am a backend developer primarily focused on using Java. My work focuses primarily on contributing to open-source projects that I find useful.
