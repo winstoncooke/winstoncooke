@@ -14,6 +14,7 @@ My current focus is:
 
 I've also contributed to the following open source projects:
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [Anki-Android](https://github.com/ankidroid/Anki-Android)
 - [KerasCV](https://github.com/keras-team/keras-cv)
 
 My hobbies include sim racing, tennis, Formula 1, and the Premier League.
