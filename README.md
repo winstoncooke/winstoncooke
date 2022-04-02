@@ -12,7 +12,6 @@ I am a backend developer that primarily codes in Java. My work focuses on contri
 My current focus is:
 - [AccountingSoftware](https://github.com/winstoncooke/AccountingSoftware), an open-source offline bookkeeping app
 
-
 I've also contributed to the following open source projects:
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [Anki-Android](https://github.com/ankidroid/Anki-Android)
