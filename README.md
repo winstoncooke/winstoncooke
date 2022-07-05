@@ -7,7 +7,9 @@
 
 <a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://github.com/winstoncooke/winstoncooke/blob/main/icons/LinkedIn.png" width="45"></a>
 
-I am a backend developer that primarily works with Java and Kotlin. I focus on contributing to open-source projects that I find make a genuine impact for everyone.
+I am a full stack developer that primarily works with JavaScript (React, Node, Express), Java, and Kotlin. I focus on contributing to open-source projects that I find make a genuine impact for everyone.
+
+My current focus is learning [Three.js](https://threejs.org/) and [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 
 I've contributed to the following open source projects:
 - [Anki-Android](https://github.com/ankidroid/Anki-Android)
