@@ -1,4 +1,4 @@
-## Winston Cooke
+## Winston Cooke (Open to work opportunities!)
 <!--
 ---
 [Homepage](URL)
@@ -6,8 +6,6 @@
 -->
 
 <a href="https://www.linkedin.com/in/winstoncooke/" title="Linkedin"><img src="https://github.com/winstoncooke/winstoncooke/blob/main/icons/LinkedIn.png" width="45"></a>
-
-# Open to work
 
 I am a full stack developer that primarily works with JavaScript (Mongo, Express, React, Node), TypeScript, Java, and Kotlin. I focus on contributing to open-source projects that I find make a genuine impact for everyone. I am fascinated by emulation projects and support historic preservation.
 
