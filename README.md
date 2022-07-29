@@ -1,4 +1,4 @@
-## Winston Cooke - Open to work opportunities!
+## Winston Cooke
 <!--
 ---
 [Homepage](URL)
